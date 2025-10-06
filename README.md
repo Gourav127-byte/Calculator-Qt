@@ -1,2 +1,2 @@
 # Calculator-Qt
-simple calculator built using Qt and C++
+A simple calculator application built with Qt (C++), capable of performing basic arithmetic operations with a modern GUI.
